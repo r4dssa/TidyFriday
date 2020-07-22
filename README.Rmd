@@ -15,14 +15,16 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{css, echo = FALSE}
-p, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
+<style>
+p,h1, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
   text-align: right;
   direction: rtl;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
-```
+
+</style>
+
 
 # Tidy_Friday
 

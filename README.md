@@ -1,13 +1,14 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<style type="text/css">
-p, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
+<style>
+p,h1, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
   text-align: right;
   direction: rtl;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
+
 </style>
 
 # Tidy\_Friday
