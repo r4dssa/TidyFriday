@@ -1,17 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<style>
-p,h1, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
-  text-align: right;
-  direction: rtl;
-  letter-spacing: 1px;
-  word-spacing: 3px;
-}
+<h2 dir="rtl>
 
-</style>
+## Tidy_Friday
 
-# Tidy\_Friday
+</h2>
+
+<p dir="rtl>
 
 سوف نقوم في كل يوم جمعة بإضافة جدول بيانات جديد، سوف نحاول ان تكون
 البيانات عن المملكة العربية السعودية بقدر الإمكان.
@@ -23,7 +19,15 @@ p,h1, h2, h3, h4, h5, h6, ol,li, ul, .nav nav-pills  {
 Online Learning Community Saudi` على
 [`slack`](https://join.slack.com/t/r4dssa/shared_invite/zt-fyg8b592-7L7PFhbOt8AM0oWDWZjYfg)
 
+</p>
+
+<h2 dir="rtl>
+
 ## R4DS Online Learning Community Saudi
+
+</h2>
+
+<p dir="rtl>
 
 ملهمين بمجتمع `R4DS Online Learning Community` قمنا بإنشاء `R4DS Online
 Learning Community Saudi`
@@ -40,7 +44,15 @@ Learning Community Saudi`
 
 <!-- badges: end -->
 
+</p>
+
+<h2 dir="rtl>
+
 ## مصادر نرشحها لتعلم R
+
+</h2>
+
+<p dir="rtl>
 
 احد أهم المصادر هو [Rstudio Education](https://education.rstudio.com)
 
@@ -50,7 +62,15 @@ Learning Community Saudi`
 هنا تجد مجموعة من الكتب مفتوحة المصدر بالإضافة الى بعض التسجيلات علي
 يوتيوب
 
+</p>
+
+<h3 dir="rtl>
+
 ### مدخل الى تعلم R
+
+</h3>
+
+<p dir="rtl>
 
 1- [R4ds](https://r4ds.had.co.nz) (يعد هذا الكتاب اهم مصدر لتعلم R)
 
@@ -59,7 +79,15 @@ Learning Community Saudi`
 3- [Hadly\`s Recordings on
 YouTube](https://www.youtube.com/watch?v=go5Au01Jrvs)
 
+</p>
+
+<h3 dir="rtl>
+
 ### تصوير البيانات
+
+</h3>
+
+<p dir="rtl>
 
 1- [ggplot2: Elegant Graphics for Data
 Analysis](https://ggplot2-book.org)
@@ -74,18 +102,44 @@ YouTube](https://www.youtube.com/watch?v=h29g21z0a68&t=7028s)
 
 5- [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 
+</p>
+
+<h3 dir="rtl>
+
 ### إحصاء
+
+</h3>
+
+
+<p dir="rtl>
 
 1- [Statistical Inference via Data Science](https://moderndive.com)
 
+</p>
+
+<h3 dir="rtl>
+
 ### Rmarkdown
+
+</h3>
+
+<p dir="rtl>
 
 1- [R Markdown: The Definitive
 Guide](https://bookdown.org/yihui/rmarkdown/)
 
 2- [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
+</p>
+
+<h3 dir="rtl>
+
 ### بناء النماذج
+
+</h3>
+
+
+<p dir="rtl>
 
 1- [Feature Engineering and Selection: A Practical Approach for
 Predictive Models](http://www.feat.engineering)
@@ -98,11 +152,28 @@ R](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.p
 
 4- [tidymodels](https://www.tidymodels.org/learn/)
 
+</p>
+
+<h3 dir="rtl>
+
 ### تحليل النصوص
+
+</h3>
+
+<p dir="rtl>
 
 1- [Text Mining](https://www.tidymodels.org/books/tidytext/)
 
+</p>
+
+<h3 dir="rtl>
+
 ### مصادر اخرى
+
+</h3>
+
+
+<p dir="rtl>
 
 1- [Rweekly](https://rweekly.org)
 
@@ -114,3 +185,5 @@ channe](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 
 4- [دروس
 مجانية](https://education.rstudio.com/blog/2020/05/remote-roundup/)
+
+</p>
