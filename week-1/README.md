@@ -55,7 +55,6 @@ library(tidycovid19)
 library(tidyverse)
 
 sa_mov<-download_google_cmr_data(type = "country_region") %>%
-  filter(iso3c == "SAU") %>% 
-  select(-iso3c, iso_3166_2_code, census_fips_code, timestamp )
+  filter(iso3c == "SAU") 
   
 ```
