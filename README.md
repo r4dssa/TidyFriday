@@ -1,6 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+
+
+<img src="hexa-sticker/img//r4dssa-sticker.png" width='250'  height='300'
+        style="margin-left: 30%; margin-right:5px;"/>
+     
+     
 <div dir="rtl">
 
 ## Tidy_Friday
