@@ -4,7 +4,7 @@
 
 
 <img src="hexa-sticker/img//r4dssa-sticker.png" width='250'  height='300'
-        style="margin-left: 30%; margin-right:5px;"/>
+        style="margin-left:30%; margin-right:5px;"/>
      
      
 <div dir="rtl">
