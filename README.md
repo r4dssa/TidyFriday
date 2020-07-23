@@ -1,6 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+
+
+<img src="hexa-sticker/img//r4dssa-sticker.png" width='250'  height='300'
+        style="margin-left: 30%; margin-right:5px;"/>
+     
+     
 <div dir="rtl">
 
 ## Tidy_Friday
@@ -48,6 +54,10 @@ Learning Community Saudi`
 
 كما يمكنك البحث عن الكتب المجانية المتعلقة ب R
 [هنا](https://bookdown.org/home/tags/)
+
+
+[هنا تجد تلخيص وترجمة للباب الثاني من كتاب R4ds باللغة العربية](https://rpubs.com/Naif_8/628469)
+
 
 هنا تجد مجموعة من الكتب مفتوحة المصدر بالإضافة الى بعض التسجيلات علي
 يوتيوب
