@@ -3,10 +3,12 @@
 
 
 
-<img src="hexa-sticker/img//r4dssa-sticker.png" width='250'  height='300' style="margin-left: 100; margin-right:5px;"/>
      
      
 <div dir="rtl">
+
+<img src="hexa-sticker/img//r4dssa-sticker.png" width='250'  height='300' style="margin-left: 100; margin-right:5px;"/>
+
 
 ## Tidy_Friday
 
