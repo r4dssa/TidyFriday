@@ -1,6 +1,6 @@
 <div dir="rtl", style = "padding-left:20%; padding-right:20%">
 
-سوف نقوم في هذا الاسبوع بتغطية بيانات التنسوف نقوم في هذا الاسبوع بتغطية بيانات التنقل
+سوف نقوم في هذا الاسبوع بتغطية بيانات التنقل
 [Mobility data](https://www.blog.google/technology/health/covid-19-community-mobility-reports?hl=en)
  في المملكة العربية السعودية خلال الفترة مابين
 15/02/2019
